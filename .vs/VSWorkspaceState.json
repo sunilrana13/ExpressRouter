@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\public"
+    "\\public",
+    "\\routes"
   ],
   "SelectedNode": "\\package.json",
   "PreviewInSolutionExplorer": false
